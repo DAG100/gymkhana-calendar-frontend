@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gymkhana-revo-calendar": "file:../gymkhana-revo-calendar",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "5.0.1",
-    "revo-calendar": "^3.2.3",
+    "styled-components": "^6.0.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
